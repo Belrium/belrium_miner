@@ -1,5 +1,5 @@
-# belrium_miner
-World's first KYC compliant Blockchain : http://www.belrium.com
+
+rld's first KYC compliant Blockchain : http://www.belrium.com
 
 - - -
 
@@ -174,3 +174,4 @@ node app.js --help
     --reindex                  Reindex blockchain
     --base <dir>               Base directory
 ```
+
