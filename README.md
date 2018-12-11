@@ -31,7 +31,7 @@ Belrium system is a decentralized application platform, which is designed to low
 System Dependency<br>
 nodejs v6.3+,npm 3.10+ (not cnpm),node-gyp v3.6.2+ (suggested),sqlite v3.8.2+,g++,libssl,</li>
 </ol>
-h1><a id="Installation_dependencies_for_ubuntu_1404x_or_higher_using_bash_script_12"></a>Installation dependencies for ubuntu 14.04.x or higher using bash script.</h1>
+<h1><a id="Installation_dependencies_for_ubuntu_1404x_or_higher_using_bash_script_12"></a>Installation dependencies for ubuntu 14.04.x or higher using bash script.</h1>
 <pre><code>   sudo ./belrium_manager.bash install
 </code></pre>
 <h1><a id="Installation_dependencies_for_ubuntu_1404x_or_higher_manually_16"></a>Installation dependencies for ubuntu 14.04.x or higher manually.</h1>
