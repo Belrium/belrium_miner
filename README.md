@@ -1,5 +1,5 @@
 
-rld's first KYC compliant Blockchain : http://www.belrium.com
+World's first KYC compliant Blockchain : http://www.belrium.com
 
 - - -
 
